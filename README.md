@@ -40,7 +40,7 @@ DummyJSON API for backend data service
 ## Screenshots
 
 ![Login Screen](screenshots/login.png)
-![Login Screen](screenshots/Home.png)
-![Login Screen](screenshots/Category--Snack.png)
-![Login Screen](screenshots/Recipe_Page.png)
-![Login Screen](screenshots/Recipe_PageII.png)
+![Home Screen](screenshots/Home.png)
+![Snack Screen](screenshots/Category--Snack.png)
+![Recipe Screen](screenshots/Recipe_Page.png)
+![Recipe Screen](screenshots/Recipe_PageII.png)
